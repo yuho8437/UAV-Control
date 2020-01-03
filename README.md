@@ -23,6 +23,7 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 - Project 2 **UGV control simulation (2D) - with closed-loop system**
 
 1. Problem situation
+   - 임의로 destination 입력 시, wheel motor를 컨트롤하여 해당 지점까지 이동하고 parallel parking 수행
 
 ![image](./img/그림1.png)
 
@@ -37,6 +38,7 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 - project 3 **UAV stabilizing simulation (2D) - with closed-loop system**
 
 1. Problem situation (Fixed on the rod)
+   - 임의의 각도 phi를 입력 시, propeller motor를 컨트롤하여 stabilizing 수행
 
 ![image](./img/그림4.png)
 
