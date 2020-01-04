@@ -9,9 +9,9 @@ global T
 
 %% System properties
 global M I r
-M = 0.9; % mass: 1kg
-I = 0.008; % rotational inertia: 0.01
-r = 0.15; % length of rod: 0.1m
+M = 0.9; % mass: 0.9kg
+I = 0.008; % rotational inertia: 0.008
+r = 0.15; % length of rod: 0.15m
 
 %% Control gain
 global kp_in ki_in kd_in
