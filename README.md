@@ -10,11 +10,11 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 
 ### Project1: GPS C/A Code generator & Correlation
 
-1. C/A Code generator implementation example
+#### 1. C/A Code generator implementation example
 
 ![img](./img/1-1.png)
 
-2. Auto-correlation, Cross-correlation implementation example
+#### 2. Auto-correlation, Cross-correlation implementation example
 
 ![img](./img/autocorr.png)
 
@@ -22,27 +22,29 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 
 ### Project2: UGV control simulation (2D) - with closed-loop system
 
-1. Problem situation
-   - 임의로 destination 입력 시, wheel motor를 컨트롤하여 해당 지점까지 이동하고 parallel parking 수행
+#### 1. Problem situation
+
+임의로 destination 입력 시, wheel motor를 컨트롤하여 해당 지점까지 이동하고 parallel parking 수행
 
 ![image](./img/그림1.png)
 
-2. Control system design (*Lecture slides recommendation)
+#### 2. Control system design (*Lecture slides recommendation)
 
 ![image](./img/그림2.png)
 
-3. Implementation
+#### 3. Implementation
 
 ![image](./img/그림3.png)
 
 ### project3: UAV stabilizing simulation (2D) - with closed-loop system
 
-1. Problem situation (Fixed on the rod)
-   - 임의의 각도 phi를 입력 시, propeller motor를 컨트롤하여 stabilizing 수행
+#### 1. Problem situation (Fixed on the rod)
+
+임의의 각도 phi를 입력 시, propeller motor를 컨트롤하여 stabilizing 수행
 
 ![image](./img/그림4.png)
 
-2. Control system design (*My control system design)
+#### 2. Control system design (*My control system design)
 
 ![image](./img/그림5.png)
 
@@ -50,7 +52,7 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 
 ![image](./img/그림10.png)
 
-3. Implementation
+#### 3. Implementation
 
 ![image](./img/그림6.png)
 
@@ -58,4 +60,4 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 
 ## 참고 문헌
 
-- Project 1: "Fundamentals of Global Positioning System Receivers - A Software Approach (James Bao‐Yen Tsui)" chapter5. GPS C/A Code Signal Structure
+Project 1: "Fundamentals of Global Positioning System Receivers - A Software Approach (James Bao‐Yen Tsui)" chapter5. GPS C/A Code Signal Structure
