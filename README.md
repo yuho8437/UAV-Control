@@ -6,9 +6,9 @@ UNIST 2019 2학기 UAV Navigation & Flight Computer 과목에서 구현하였던
 
 Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system design은 수업 슬라이드를 참고하였습니다.
 
-### 프로젝트 개요
+## 프로젝트 개요
 
-- Project1 **GPS C/A Code generator & Correlation**
+### Project1: GPS C/A Code generator & Correlation
 
 1. C/A Code generator implementation example
 
@@ -20,7 +20,7 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 
 ![img](./img/crosscorr.png)
 
-- Project 2 **UGV control simulation (2D) - with closed-loop system**
+### Project2: UGV control simulation (2D) - with closed-loop system
 
 1. Problem situation
    - 임의로 destination 입력 시, wheel motor를 컨트롤하여 해당 지점까지 이동하고 parallel parking 수행
@@ -35,7 +35,7 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 
 ![image](./img/그림3.png)
 
-- project 3 **UAV stabilizing simulation (2D) - with closed-loop system**
+### project3: UAV stabilizing simulation (2D) - with closed-loop system
 
 1. Problem situation (Fixed on the rod)
    - 임의의 각도 phi를 입력 시, propeller motor를 컨트롤하여 stabilizing 수행
@@ -56,6 +56,6 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 
 ![image](./img/그림8.png)
 
-### 참고 문헌
+## 참고 문헌
 
 - Project 1: "Fundamentals of Global Positioning System Receivers - A Software Approach (James Bao‐Yen Tsui)" chapter5. GPS C/A Code Signal Structure
