@@ -36,7 +36,7 @@ Chapter 5를 참고하였고, 프로젝트 2의 전체적인 closed-loop system 
 
 ![image](./img/그림3.png)
 
-### project3: UAV stabilizing simulation (2D) - with closed-loop system
+### Project3: UAV stabilizing simulation (2D) - with closed-loop system
 
 #### 1. Problem situation (Fixed on the rod)
 
