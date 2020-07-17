@@ -10,13 +10,15 @@ and Project 2's overall closed-loop system design referenced the course pdf slid
 
 #### 1. C/A Code generator implementation example
 
-![img](./img/1-1.png)
+<img src="./img/1-1.png" width="60%">
+
 
 #### 2. Auto-correlation, Cross-correlation implementation example
 
-![img](./img/autocorr.png){: width="60%"}
+<img src="./img/autocorr.png" width="60%">
 
-![img](./img/crosscorr.png){: width="60%"}
+<img src="./img/crosscorr.png" width="60%">
+
 
 ### Project2
 
