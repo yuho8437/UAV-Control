@@ -2,7 +2,9 @@
 
 This project was implemented in the Fall semester of UNIST 2019 UAV Navigation & Flight Computer.
 
-Project 1's C/A Code generator referenced Chapter 5 of the Fundamentals of Global Positioning System Receivers book, and Project 2's overall closed-loop system design referenced the course pdf slide.
+Project 1's C/A Code generator referenced Fundamentals of Global Positioning System Receivers book, 
+
+and Project 2's overall closed-loop system design referenced the course pdf slide.
 
 ### Project1
 
