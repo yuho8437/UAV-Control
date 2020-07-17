@@ -1,12 +1,10 @@
-# UAV Control Projects
+## UAV Control Projects
 
 This project was implemented in the Fall semester of UNIST 2019 UAV Navigation & Flight Computer.
 
 Project 1's C/A Code generator referenced Chapter 5 of the Fundamentals of Global Positioning System Receivers book, 
 
 and Project 2's overall closed-loop system design referenced the course pdf slide.
-
-## Description
 
 ### Project1
 
@@ -62,6 +60,6 @@ When entering the angle phi, control the propeller motor to perform stabilizing
 
 ![image](./img/그림8.png)
 
-## Reference
+### Reference
 
 Fundamentals of Global Positioning System Receivers - A Software Approach (James Bao‐Yen Tsui) chapter5
